@@ -26,6 +26,8 @@
 
 [Fire](#fire)
 
+[Stone Chair](#stone-chair)
+
 </details>
 
 ### Gaming Room
@@ -70,3 +72,7 @@
 ### Fire
 
 ![](renders/fire.gif)
+
+### Stone Chair
+
+![](renders/stone-chair.png)
