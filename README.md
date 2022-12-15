@@ -6,27 +6,27 @@
 
 <summary>List</summary>
 
-[Gaming Room](#gaming-room)
+- [Gaming Room](#gaming-room)
 
-[Mjolnir](#mjolnir)
+- [Mjolnir](#mjolnir)
 
-[Sharingan Eyes](#sharingan-eyes)
+- [Sharingan Eyes](#sharingan-eyes)
 
-[Low Poly](#low-poly)
+- [Low Poly](#low-poly)
 
-[Sofa Chair](#sofa-chair)
+- [Sofa Chair](#sofa-chair)
 
-[Captain America Shield](#captain-america-shield)
+- [Captain America Shield](#captain-america-shield)
 
-[AK47](#ak47)
+- [AK47](#ak47)
 
-[Shotgun](#shotgun)
+- [Shotgun](#shotgun)
 
-[Revolver](#revolver)
+- [Revolver](#revolver)
 
-[Fire](#fire)
+- [Fire](#fire)
 
-[Stone Chair](#stone-chair)
+- [Stone Chair](#stone-chair)
 
 </details>
 
