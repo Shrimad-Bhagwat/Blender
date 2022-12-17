@@ -46,7 +46,7 @@
 
 ### Mechanical Arm
 
-![Mechanical Arm](renders/mechanical-arm.gif)
+![Mechanical Arm](renders/loop%20mechanical.gif)
 
 ### Low Poly
 
