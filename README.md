@@ -12,6 +12,8 @@
 
 - [Sharingan Eyes](#sharingan-eyes)
 
+- [Mechanical Arm](#mechanical-arm)
+
 - [Low Poly](#low-poly)
 
 - [Sofa Chair](#sofa-chair)
@@ -41,6 +43,10 @@
 ### Sharingan Eyes
 
 ![Sharingan Eyes](renders/eyes.png)
+
+### Mechanical Arm
+
+![Mechanical Arm](renders/Mechanical%20Arm%20Loop%20Gif.gif)
 
 ### Low Poly
 
